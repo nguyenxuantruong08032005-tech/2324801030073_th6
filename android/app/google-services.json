@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "291312528941",
+    "project_id": "th6-melody-music",
+    "storage_bucket": "th6-melody-music.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291312528941:android:e0d50566007f51f5d652a4",
+        "android_client_info": {
+          "package_name": "com.example.th6_2324801030073_nguyenxuantruong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291312528941-9gldvaqe629r93l2tkir7oh5la2v60m4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.th6_2324801030073_nguyenxuantruong",
+            "certificate_hash": "6d4209cc3ea15f7cce61dda8a1fc363f95d1018c"
+          }
+        },
+        {
+          "client_id": "291312528941-ae694hsitrnho0srvdkhfuel4eu0bcb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSDekW2dfDkcM7pMcQAP0YvHZZMy9t2vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291312528941-ae694hsitrnho0srvdkhfuel4eu0bcb7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "291312528941-g0c9edudl89397dbu66iqd9edd1jffce.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.th62324801030073Nguyenxuantruong"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
